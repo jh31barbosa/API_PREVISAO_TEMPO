@@ -1,0 +1,1 @@
+Projeto do consumo de uma api do tempo que fornece informações climaticas a partir da cidade pesquisada.
